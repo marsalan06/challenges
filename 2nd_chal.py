@@ -6,7 +6,7 @@ while True:
     c=0
     d=1
     while (d<=user_input):
-        """first loop entery"""
+        """first loop entery here"""
         for i in range (1,user_input):
             """secod loop entery"""
             b=2*(d*i)
